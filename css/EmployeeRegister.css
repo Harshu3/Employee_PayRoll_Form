@@ -77,3 +77,16 @@
         border-radius: 4px;
         resize: vertical;
     }
+    /*UC3*/
+    .profile-radio-content{
+        display: flex;
+    }
+    .profile-radio-content > label{
+        display: flex; align-items: center;
+    }
+    .profile{
+        border-radius: 50%; margin-left: 12px; width: 40px;
+    }
+    img{
+        width: 30px;
+    }
